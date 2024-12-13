@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IT24104217Lab5Q1 { // Replace ITxxxxxxxx with your Student ID
+public class IT24104217Lab5Q1 { 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
